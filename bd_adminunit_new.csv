@@ -1,0 +1,1868 @@
+ADMIN_UNIT_COID,ADDRESS_CITY,ADD_REGION_CODE
+CI 0005 04042             ,Akron,OH
+CI 0005 00452             ,Albuquerque,NM
+CI 0005 00761             ,Albuquerque,NM
+CI 0005 04252             ,Albuquerque,NM
+CI 0005 05452             ,Albuquerque,NM
+CI 0005 06552             ,Albuquerque,NM
+CI 0005 00321             ,Alexandria,VA
+CI 0005 00911             ,Alexandria,VA
+CI 0005 06892             ,Amarillo,TX
+CI 0005 07051             ,Anaheim,CA
+CI 0005 00004             ,Anchorage,AK
+CI 0005 00304             ,Anchorage,AK
+CI 0005 00504             ,Anchorage,AK
+CI 0005 00594             ,Anchorage,AK
+CI 0005 00694             ,Anchorage,AK
+CI 0005 00647             ,Arlington,TX
+CI 0005 00078             ,Atlanta,GA
+CI 0005 00828             ,Atlanta,GA
+CI 0005 00999             ,Augusta,GA
+CI 0005 01799             ,Augusta,GA
+CI 0005 02099             ,Augusta,GA
+CI 0005 00340             ,Aurora,IL
+CI 0005 04040             ,Aurora,IL
+CI 0005 08039             ,Aurora,CO
+CI 0005 00021             ,Austin,TX
+CI 0005 00041             ,Austin,TX
+CI 0005 00031             ,Austin,TX
+CI 0005 00101             ,Austin,TX
+CI 0005 00111             ,Austin,TX
+CI 0005 00241             ,Austin,TX
+CI 0005 00301             ,Austin,TX
+CI 0005 00331             ,Austin,TX
+CI 0005 00501             ,Austin,TX
+CI 0005 00531             ,Austin,TX
+CI 0005 00631             ,Austin,TX
+CI 0005 00641             ,Austin,TX
+CI 0005 00731             ,Austin,TX
+CI 0005 00831             ,Austin,TX
+CI 0005 00841             ,Austin,TX
+CI 0005 00931             ,Austin,TX
+CI 0005 01011             ,Austin,TX
+CI 0005 01141             ,Austin,TX
+CI 0005 01201             ,Austin,TX
+CI 0005 01211             ,Austin,TX
+CI 0005 01601             ,Austin,TX
+CI 0005 01501             ,Austin,TX
+CI 0005 02011             ,Austin,TX
+CI 0005 04041             ,Austin,TX
+CI 0005 07001             ,Austin,TX
+CI 0005 08001             ,Austin,TX
+CI 0005 08041             ,Austin,TX
+CI 0005 08701             ,Austin,TX
+CI 0005 09401             ,Austin,TX
+CI 0005 09411             ,Austin,TX
+CI 0005 09481             ,Austin,TX
+CI 0005 09521             ,Austin,TX
+CI 0005 09911             ,Austin,TX
+CI 0005 04352             ,Bakersfield,CA
+CI 0005 05352             ,Bakersfield,CA
+CI 0005 07652             ,Bakersfield,CA
+CI 0005 09061             ,Baltimore,MD
+CI 0005 00779             ,Baton Rouge,LA
+CI 0005 00094             ,Birmingham,AL
+CI 0005 00440             ,Boise,ID
+CI 0005 04940             ,Boise,ID
+CI 0005 00152             ,Boston,MA
+CI 0005 00952             ,Boston,MA
+CI 0005 02352             ,Boston,MA
+CI 0005 03152             ,Boston,MA
+CI 0005 03452             ,Boston,MA
+CI 0005 05552             ,Boston,MA
+CI 0005 06052             ,Boston,MA
+CI 0005 08252             ,Boston,MA
+CI 0005 00352             ,Boston,MA
+CI 0005 05652             ,Bridgeport,CT
+CI 0005 00243             ,Brownsville,TX
+CI 0005 00650             ,Buffalo,NY
+CI 0005 03950             ,Buffalo,NY
+CI 0005 08950             ,Buffalo,NY
+CI 0005 09450             ,Buffalo,NY
+CI 0005 04072             ,Cape Coral,FL
+CI 0005 00898             ,Greensboro,NC
+CI 0005 00978             ,Greensboro,NC
+CI 0005 00018             ,Chandler,AZ
+CI 0005 00218             ,Chandler,AZ
+CI 0005 00418             ,Chandler,AZ
+CI 0005 00518             ,Chandler,AZ
+CI 0005 00618             ,Chandler,AZ
+CI 0005 00718             ,Chandler,AZ
+CI 0005 00818             ,Chandler,AZ
+CI 0005 00858             ,Chandler,AZ
+CI 0005 00918             ,Chandler,AZ
+CI 0005 01018             ,Chandler,AZ
+CI 0005 03342             ,Charlotte,NC
+CI 0005 00328             ,Chattanooga,TN
+CI 0005 00904             ,Chesapeake,VA
+CI 0005 02842             ,Chesapeake,VA
+CI 0005 00102             ,Chicago,IL
+CI 0005 00112             ,Chicago,IL
+CI 0005 00122             ,Chicago,IL
+CI 0005 00212             ,Chicago,IL
+CI 0005 00302             ,Chicago,IL
+CI 0005 00402             ,Chicago,IL
+CI 0005 00502             ,Chicago,IL
+CI 0005 00522             ,Chicago,IL
+CI 0005 00512             ,Chicago,IL
+CI 0005 00532             ,Chicago,IL
+CI 0005 00602             ,Chicago,IL
+CI 0005 00612             ,Chicago,IL
+CI 0005 00732             ,Chicago,IL
+CI 0005 00722             ,Chicago,IL
+CI 0005 00802             ,Chicago,IL
+CI 0005 00822             ,Chicago,IL
+CI 0005 00912             ,Chicago,IL
+CI 0005 00902             ,Chicago,IL
+CI 0005 01002             ,Chicago,IL
+CI 0005 01022             ,Chicago,IL
+CI 0005 01012             ,Chicago,IL
+CI 0005 01112             ,Chicago,IL
+CI 0005 01202             ,Chicago,IL
+CI 0005 01302             ,Chicago,IL
+CI 0005 01412             ,Chicago,IL
+CI 0005 01502             ,Chicago,IL
+CI 0005 01602             ,Chicago,IL
+CI 0005 01702             ,Chicago,IL
+CI 0005 01712             ,Chicago,IL
+CI 0005 01622             ,Chicago,IL
+CI 0005 01802             ,Chicago,IL
+CI 0005 01822             ,Chicago,IL
+CI 0005 01902             ,Chicago,IL
+CI 0005 02002             ,Chicago,IL
+CI 0005 02012             ,Chicago,IL
+CI 0005 02032             ,Chicago,IL
+CI 0005 02102             ,Chicago,IL
+CI 0005 02322             ,Chicago,IL
+CI 0005 02522             ,Chicago,IL
+CI 0005 02402             ,Chicago,IL
+CI 0005 02812             ,Chicago,IL
+CI 0005 02832             ,Chicago,IL
+CI 0005 02802             ,Chicago,IL
+CI 0005 02902             ,Chicago,IL
+CI 0005 03002             ,Chicago,IL
+CI 0005 03012             ,Chicago,IL
+CI 0005 03312             ,Chicago,IL
+CI 0005 03202             ,Chicago,IL
+CI 0005 03302             ,Chicago,IL
+CI 0005 03422             ,Chicago,IL
+CI 0005 03602             ,Chicago,IL
+CI 0005 03612             ,Chicago,IL
+CI 0005 03502             ,Chicago,IL
+CI 0005 03702             ,Chicago,IL
+CI 0005 03832             ,Chicago,IL
+CI 0005 03838             ,Chicago,IL
+CI 0005 03902             ,Chicago,IL
+CI 0005 04002             ,Chicago,IL
+CI 0005 04202             ,Chicago,IL
+CI 0005 04232             ,Chicago,IL
+CI 0005 04302             ,Chicago,IL
+CI 0005 04432             ,Chicago,IL
+CI 0005 04102             ,Chicago,IL
+CI 0005 04502             ,Chicago,IL
+CI 0005 04702             ,Chicago,IL
+CI 0005 04802             ,Chicago,IL
+CI 0005 04812             ,Chicago,IL
+CI 0005 04612             ,Chicago,IL
+CI 0005 04902             ,Chicago,IL
+CI 0005 05012             ,Chicago,IL
+CI 0005 05202             ,Chicago,IL
+CI 0005 05402             ,Chicago,IL
+CI 0005 05622             ,Chicago,IL
+CI 0005 05812             ,Chicago,IL
+CI 0005 05822             ,Chicago,IL
+CI 0005 05832             ,Chicago,IL
+CI 0005 05902             ,Chicago,IL
+CI 0005 05702             ,Chicago,IL
+CI 0005 06012             ,Chicago,IL
+CI 0005 06022             ,Chicago,IL
+CI 0005 06152             ,Chicago,IL
+CI 0005 06522             ,Chicago,IL
+CI 0005 07032             ,Chicago,IL
+CI 0005 07102             ,Chicago,IL
+CI 0005 07302             ,Chicago,IL
+CI 0005 07402             ,Chicago,IL
+CI 0005 07602             ,Chicago,IL
+CI 0005 07622             ,Chicago,IL
+CI 0005 07702             ,Chicago,IL
+CI 0005 07732             ,Chicago,IL
+CI 0005 07802             ,Chicago,IL
+CI 0005 07912             ,Chicago,IL
+CI 0005 07932             ,Chicago,IL
+CI 0005 07812             ,Chicago,IL
+CI 0005 07902             ,Chicago,IL
+CI 0005 08012             ,Chicago,IL
+CI 0005 08402             ,Chicago,IL
+CI 0005 08412             ,Chicago,IL
+CI 0005 08602             ,Chicago,IL
+CI 0005 08802             ,Chicago,IL
+CI 0005 08732             ,Chicago,IL
+CI 0005 08902             ,Chicago,IL
+CI 0005 08922             ,Chicago,IL
+CI 0005 09212             ,Chicago,IL
+CI 0005 09312             ,Chicago,IL
+CI 0005 09402             ,Chicago,IL
+CI 0005 09602             ,Chicago,IL
+CI 0005 09612             ,Chicago,IL
+CI 0005 09622             ,Chicago,IL
+CI 0005 09732             ,Chicago,IL
+CI 0005 09832             ,Chicago,IL
+CI 0005 09912             ,Chicago,IL
+CI 0005 09712             ,Chicago,IL
+CI 0005 32157             ,Chicago,IL
+CI 0005 32159             ,Chicago,IL
+CI 0005 32215             ,Chicago,IL
+CI 0005 32246             ,Chicago,IL
+CI 0005 32269             ,Chicago,IL
+CI 0005 32320             ,Chicago,IL
+CI 0005 32332             ,Chicago,IL
+CI 0005 32342             ,Chicago,IL
+CI 0005 32352             ,Chicago,IL
+CI 0005 33007             ,Chicago,IL
+CI 0005 33122             ,Chicago,IL
+CI 0005 32270             ,Chicago,IL
+CI 0005 32297             ,Chicago,IL
+CI 0005 32310             ,Chicago,IL
+CI 0005 84161             ,Chicago,IL
+CI 0005 84162             ,Chicago,IL
+CI 0005 84163             ,Chicago,IL
+CI 0005 84165             ,Chicago,IL
+CI 0005 84166             ,Chicago,IL
+CI 0005 90162             ,Chicago,IL
+CI 0005 90202             ,Chicago,IL
+CI 0005 99512             ,Chicago,IL
+CI 0005 99702             ,Chicago,IL
+CI 0005 02308             ,Chicago,IL
+CI 0005 06899             ,Chicago,IL
+CI 0005 99999             ,Chicago,IL
+CI 0005 00211             ,Chicago,IL
+CI 0005 00215             ,Chicago,IL
+CI 0005 00236             ,Chicago,IL
+CI 0005 00246             ,Chicago,IL
+CI 0005 32160             ,Chicago,IL
+CI 0005 32162             ,Chicago,IL
+CI 0005 32170             ,Chicago,IL
+CI 0005 32172             ,Chicago,IL
+CI 0005 32180             ,Chicago,IL
+CI 0005 32182             ,Chicago,IL
+CI 0005 32192             ,Chicago,IL
+CI 0005 32200             ,Chicago,IL
+CI 0005 32202             ,Chicago,IL
+CI 0005 32203             ,Chicago,IL
+CI 0005 32205             ,Chicago,IL
+CI 0005 32206             ,Chicago,IL
+CI 0005 32207             ,Chicago,IL
+CI 0005 32209             ,Chicago,IL
+CI 0005 32211             ,Chicago,IL
+CI 0005 32212             ,Chicago,IL
+CI 0005 32219             ,Chicago,IL
+CI 0005 32220             ,Chicago,IL
+CI 0005 32222             ,Chicago,IL
+CI 0005 32226             ,Chicago,IL
+CI 0005 32227             ,Chicago,IL
+CI 0005 32229             ,Chicago,IL
+CI 0005 32230             ,Chicago,IL
+CI 0005 32232             ,Chicago,IL
+CI 0005 32233             ,Chicago,IL
+CI 0005 32236             ,Chicago,IL
+CI 0005 32237             ,Chicago,IL
+CI 0005 32239             ,Chicago,IL
+CI 0005 32240             ,Chicago,IL
+CI 0005 32242             ,Chicago,IL
+CI 0005 32247             ,Chicago,IL
+CI 0005 32249             ,Chicago,IL
+CI 0005 32250             ,Chicago,IL
+CI 0005 32252             ,Chicago,IL
+CI 0005 32253             ,Chicago,IL
+CI 0005 32257             ,Chicago,IL
+CI 0005 32260             ,Chicago,IL
+CI 0005 32262             ,Chicago,IL
+CI 0005 32272             ,Chicago,IL
+CI 0005 32273             ,Chicago,IL
+CI 0005 32279             ,Chicago,IL
+CI 0005 32280             ,Chicago,IL
+CI 0005 32282             ,Chicago,IL
+CI 0005 32283             ,Chicago,IL
+CI 0005 32287             ,Chicago,IL
+CI 0005 32289             ,Chicago,IL
+CI 0005 32290             ,Chicago,IL
+CI 0005 32292             ,Chicago,IL
+CI 0005 32299             ,Chicago,IL
+CI 0005 32302             ,Chicago,IL
+CI 0005 32312             ,Chicago,IL
+CI 0005 32322             ,Chicago,IL
+CI 0005 32337             ,Chicago,IL
+CI 0005 32347             ,Chicago,IL
+CI 0005 32382             ,Chicago,IL
+CI 0005 32392             ,Chicago,IL
+CI 0005 32402             ,Chicago,IL
+CI 0005 32422             ,Chicago,IL
+CI 0005 32432             ,Chicago,IL
+CI 0005 32442             ,Chicago,IL
+CI 0005 32462             ,Chicago,IL
+CI 0005 32472             ,Chicago,IL
+CI 0005 33602             ,Chicago,IL
+CI 0005 02112             ,Chicago,IL
+CI 0005 08202             ,Chicago,IL
+CI 0005 01102             ,Chicago,IL
+CI 0005 00180             ,Chula Vista,CA
+CI 0005 00443             ,Cincinnati,OH
+CI 0005 00043             ,Clarksville,TN
+CI 0005 00453             ,Clarksville,TN
+CI 0005 00591             ,Cleveland,OH
+CI 0005 00812             ,Colorado Springs,CO
+CI 0005 04912             ,Colorado Springs,CO
+CI 0005 09012             ,Colorado Springs,CO
+CI 0005 09542             ,Colorado Springs,CO
+CI 0005 04982             ,Columbia,SC
+CI 0005 03992             ,Columbus,OH
+CI 0005 09082             ,Columbus,GA
+CI 0005 01331             ,Corona,CA
+CI 0005 03421             ,Corona,CA
+CI 0005 06021             ,Corona,CA
+CI 0005 08021             ,Corona,CA
+CI 0005 01092             ,Corpus Christi,TX
+CI 0005 00082             ,Dallas,TX
+CI 0005 00882             ,Dallas,TX
+CI 0005 01182             ,Dallas,TX
+CI 0005 01382             ,Dallas,TX
+CI 0005 01482             ,Dallas,TX
+CI 0005 01682             ,Dallas,TX
+CI 0005 02382             ,Dallas,TX
+CI 0005 03882             ,Dallas,TX
+CI 0005 04082             ,Dallas,TX
+CI 0005 04882             ,Dallas,TX
+CI 0005 04582             ,Dallas,TX
+CI 0005 05482             ,Dallas,TX
+CI 0005 06182             ,Dallas,TX
+CI 0005 07182             ,Dallas,TX
+CI 0005 07382             ,Dallas,TX
+CI 0005 08382             ,Dallas,TX
+CI 0005 08182             ,Dallas,TX
+CI 0005 09452             ,Dallas,TX
+CI 0005 09782             ,Dallas,TX
+CI 0005 33482             ,Dallas,TX
+CI 0005 07082             ,Dayton,OH
+CI 0005 00006             ,Denver,CO
+CI 0005 00016             ,Denver,CO
+CI 0005 00036             ,Denver,CO
+CI 0005 00086             ,Denver,CO
+CI 0005 00076             ,Denver,CO
+CI 0005 00106             ,Denver,CO
+CI 0005 00116             ,Denver,CO
+CI 0005 00206             ,Denver,CO
+CI 0005 00186             ,Denver,CO
+CI 0005 00386             ,Denver,CO
+CI 0005 00406             ,Denver,CO
+CI 0005 00496             ,Denver,CO
+CI 0005 00606             ,Denver,CO
+CI 0005 01206             ,Denver,CO
+CI 0005 06026             ,Denver,CO
+CI 0005 06016             ,Denver,CO
+CI 0005 09492             ,Denver,CO
+CI 0005 00050             ,Des Moines,IA
+CI 0005 00950             ,Des Moines,IA
+CI 0005 02950             ,Des Moines,IA
+CI 0005 07050             ,Des Moines,IA
+CI 0005 09460             ,Des Moines,IA
+CI 0005 00282             ,Detroit,MI
+CI 0005 08082             ,Detroit,MI
+CI 0005 08582             ,Detroit,MI
+CI 0005 09982             ,Detroit,MI
+CI 0005 00142             ,Durham,NC
+CI 0005 01342             ,Durham,NC
+CI 0005 02142             ,Durham,NC
+CI 0005 02942             ,Durham,NC
+CI 0005 04542             ,Durham,NC
+CI 0005 05142             ,Durham,NC
+CI 0005 07542             ,Durham,NC
+CI 0005 09592             ,Durham,NC
+CI 0005 00941             ,El Paso,TX
+CI 0005 06001             ,El Paso,TX
+CI 0005 08031             ,El Paso,TX
+CI 0005 00872             ,Elk Grove,CA
+CI 0005 02372             ,Elk Grove,CA
+CI 0005 03472             ,Elk Grove,CA
+CI 0005 04742             ,Escondido,CA
+CI 0005 00151             ,Eugene,OR
+CI 0005 00376             ,Fayetteville,NC
+CI 0005 00900             ,Fayetteville,NC
+CI 0005 01071             ,Fayetteville,NC
+CI 0005 01500             ,Fayetteville,NC
+CI 0005 02900             ,Fayetteville,NC
+CI 0005 03900             ,Fayetteville,NC
+CI 0005 00861             ,Fontana,CA
+CI 0005 05742             ,Fort Collins,CO
+CI 0005 00483             ,Fort Lauderdale,FL
+CI 0005 00422             ,Fort Wayne,IN
+CI 0005 08852             ,Fort Worth,TX
+CI 0005 05672             ,Fremont,CA
+CI 0005 00239             ,Fresno,CA
+CI 0005 02472             ,Fullerton,CA
+CI 0005 05872             ,Fullerton,CA
+CI 0005 06572             ,Fullerton,CA
+CI 0005 01582             ,Garden Grove,CA
+CI 0005 01001             ,Garland,TX
+CI 0005 01131             ,Garland,TX
+CI 0005 05011             ,Garland,TX
+CI 0005 09892             ,Gilbert,AZ
+CI 0005 00231             ,Glendale,CA
+CI 0005 00298             ,Glendale,AZ
+CI 0005 00901             ,Glendale,CA
+CI 0005 00279             ,Grand Prairie,TX
+CI 0005 00357             ,Grand Rapids,MI
+CI 0005 00892             ,Greensboro,NC
+CI 0005 03042             ,Greensboro,NC
+CI 0005 07342             ,Greensboro,NC
+CI 0005 06752             ,Hampton,VA
+CI 0005 08682             ,Hayward,CA
+CI 0005 00906             ,Henderson,NV
+CI 0005 00074             ,Hialeah,FL
+CI 0005 00079             ,Hollywood,FL
+CI 0005 01932             ,Honolulu,HI
+CI 0005 07142             ,Honolulu,HI
+CI 0005 07942             ,Honolulu,HI
+CI 0005 00007             ,Houston,TX
+CI 0005 00027             ,Houston,TX
+CI 0005 00137             ,Houston,TX
+CI 0005 00107             ,Houston,TX
+CI 0005 00117             ,Houston,TX
+CI 0005 00127             ,Houston,TX
+CI 0005 00207             ,Houston,TX
+CI 0005 00217             ,Houston,TX
+CI 0005 00227             ,Houston,TX
+CI 0005 00307             ,Houston,TX
+CI 0005 00317             ,Houston,TX
+CI 0005 00327             ,Houston,TX
+CI 0005 00417             ,Houston,TX
+CI 0005 00427             ,Houston,TX
+CI 0005 00437             ,Houston,TX
+CI 0005 00507             ,Houston,TX
+CI 0005 00527             ,Houston,TX
+CI 0005 00517             ,Houston,TX
+CI 0005 00537             ,Houston,TX
+CI 0005 00607             ,Houston,TX
+CI 0005 00617             ,Houston,TX
+CI 0005 00627             ,Houston,TX
+CI 0005 00727             ,Houston,TX
+CI 0005 00737             ,Houston,TX
+CI 0005 00707             ,Houston,TX
+CI 0005 00717             ,Houston,TX
+CI 0005 00807             ,Houston,TX
+CI 0005 00827             ,Houston,TX
+CI 0005 00837             ,Houston,TX
+CI 0005 00907             ,Houston,TX
+CI 0005 00917             ,Houston,TX
+CI 0005 00927             ,Houston,TX
+CI 0005 00937             ,Houston,TX
+CI 0005 01007             ,Houston,TX
+CI 0005 01017             ,Houston,TX
+CI 0005 01037             ,Houston,TX
+CI 0005 01107             ,Houston,TX
+CI 0005 01217             ,Houston,TX
+CI 0005 01307             ,Houston,TX
+CI 0005 01407             ,Houston,TX
+CI 0005 01607             ,Houston,TX
+CI 0005 02007             ,Houston,TX
+CI 0005 02017             ,Houston,TX
+CI 0005 03007             ,Houston,TX
+CI 0005 03037             ,Houston,TX
+CI 0005 04007             ,Houston,TX
+CI 0005 09307             ,Houston,TX
+CI 0005 09417             ,Houston,TX
+CI 0005 09427             ,Houston,TX
+CI 0005 09407             ,Houston,TX
+CI 0005 00237             ,Houston,TX
+CI 0005 00337             ,Houston,TX
+CI 0005 01762             ,Huntington Beach,CA
+CI 0005 04952             ,Huntsville,AL
+CI 0005 00497             ,Indianapolis,IN
+CI 0005 00887             ,Indianapolis,IN
+CI 0005 05950             ,Irvine,CA
+CI 0005 05999             ,Irving,TX
+CI 0005 08652             ,Jackson,MS
+CI 0005 00010             ,Jacksonville,FL
+CI 0005 00100             ,Jacksonville,FL
+CI 0005 00310             ,Jacksonville,FL
+CI 0005 00500             ,Jacksonville,FL
+CI 0005 00510             ,Jacksonville,FL
+CI 0005 00600             ,Jacksonville,FL
+CI 0005 00700             ,Jacksonville,FL
+CI 0005 00710             ,Jacksonville,FL
+CI 0005 00810             ,Jacksonville,FL
+CI 0005 01010             ,Jacksonville,FL
+CI 0005 01000             ,Jacksonville,FL
+CI 0005 01200             ,Jacksonville,FL
+CI 0005 01300             ,Jacksonville,FL
+CI 0005 01400             ,Jacksonville,FL
+CI 0005 01600             ,Jacksonville,FL
+CI 0005 01910             ,Jacksonville,FL
+CI 0005 02200             ,Jacksonville,FL
+CI 0005 02800             ,Jacksonville,FL
+CI 0005 02910             ,Jacksonville,FL
+CI 0005 03000             ,Jacksonville,FL
+CI 0005 03010             ,Jacksonville,FL
+CI 0005 03100             ,Jacksonville,FL
+CI 0005 03700             ,Jacksonville,FL
+CI 0005 03800             ,Jacksonville,FL
+CI 0005 03810             ,Jacksonville,FL
+CI 0005 04010             ,Jacksonville,FL
+CI 0005 04000             ,Jacksonville,FL
+CI 0005 04700             ,Jacksonville,FL
+CI 0005 04810             ,Jacksonville,FL
+CI 0005 05800             ,Jacksonville,FL
+CI 0005 05810             ,Jacksonville,FL
+CI 0005 06000             ,Jacksonville,FL
+CI 0005 06010             ,Jacksonville,FL
+CI 0005 06810             ,Jacksonville,FL
+CI 0005 08010             ,Jacksonville,FL
+CI 0005 08800             ,Jacksonville,FL
+CI 0005 09400             ,Jacksonville,FL
+CI 0005 09410             ,Jacksonville,FL
+CI 0005 09520             ,Jacksonville,FL
+CI 0005 09510             ,Jacksonville,FL
+CI 0005 09810             ,Jacksonville,FL
+CI 0005 09910             ,Jacksonville,FL
+CI 0005 68930             ,Jacksonville,FL
+CI 0005 00200             ,Jacksonville,FL
+CI 0005 01672             ,Jersey City,NJ
+CI 0005 05042             ,Joliet,IL
+CI 0005 00472             ,Kansas City,KS
+CI 0005 01072             ,Kansas City,KS
+CI 0005 02872             ,Kansas City,KS
+CI 0005 04472             ,Kansas City,KS
+CI 0005 08072             ,Kansas City,KS
+CI 0005 08572             ,Kansas City,KS
+CI 0005 03272             ,Kansas City,KS
+CI 0005 03482             ,Kansas City,KS
+CI 0005 00252             ,Killeen,TX
+CI 0005 00668             ,Knoxville,TN
+CI 0005 00979             ,Lakewood,CO
+CI 0005 04452             ,Lancaster,CA
+CI 0005 00449             ,Laredo,TX
+CI 0005 02949             ,Laredo,TX
+CI 0005 03939             ,Laredo,TX
+CI 0005 05949             ,Laredo,TX
+CI 0005 06039             ,Laredo,TX
+CI 0005 06049             ,Laredo,TX
+CI 0005 00549             ,Las Vegas,NV
+CI 0005 02039             ,Las Vegas,NV
+CI 0005 00024             ,Lexington-Fayette,KY
+CI 0005 00044             ,Lexington-Fayette,KY
+CI 0005 00404             ,Lexington-Fayette,KY
+CI 0005 00704             ,Lexington-Fayette,KY
+CI 0005 07252             ,Lincoln,NE
+CI 0005 08152             ,Lincoln,NE
+CI 0005 05992             ,Little Rock,AR
+CI 0005 00030             ,Long Beach,CA
+CI 0005 00090             ,Long Beach,CA
+CI 0005 00430             ,Long Beach,CA
+CI 0005 00630             ,Long Beach,CA
+CI 0005 00930             ,Long Beach,CA
+CI 0005 01130             ,Long Beach,CA
+CI 0005 02030             ,Long Beach,CA
+CI 0005 02830             ,Long Beach,CA
+CI 0005 02930             ,Long Beach,CA
+CI 0005 03030             ,Long Beach,CA
+CI 0005 04930             ,Long Beach,CA
+CI 0005 05030             ,Long Beach,CA
+CI 0005 07030             ,Long Beach,CA
+CI 0005 09430             ,Long Beach,CA
+CI 0005 00061             ,Los Angeles,CA
+CI 0005 00251             ,Los Angeles,CA
+CI 0005 00661             ,Los Angeles,CA
+CI 0005 06061             ,Los Angeles,CA
+CI 0005 09051             ,Los Angeles,CA
+CI 0005 00221             ,Louisville,KY
+CI 0005 03001             ,Lubbock,TX
+CI 0005 00370             ,Madison,WI
+CI 0005 02672             ,McAllen,TX
+CI 0005 00060             ,McKinney,TX
+CI 0005 07060             ,McKinney,TX
+CI 0005 08042             ,Memphis,TN
+CI 0005 00350             ,Mesa,AZ
+CI 0005 00023             ,Mesquite,TX
+CI 0005 00787             ,Miami,FL
+CI 0005 02572             ,Milwaukee,WI
+CI 0005 00242             ,Minneapolis,MN
+CI 0005 01492             ,Minneapolis,MN
+CI 0005 09342             ,Minneapolis,MN
+CI 0005 09442             ,Minneapolis,MN
+CI 0005 09642             ,Minneapolis,MN
+CI 0005 02442             ,Mobile,AL
+CI 0005 03742             ,Mobile,AL
+CI 0005 06742             ,Mobile,AL
+CI 0005 08642             ,Mobile,AL
+CI 0005 08842             ,Mobile,AL
+CI 0005 01052             ,Modesto,CA
+CI 0005 00476             ,Montgomery,AL
+CI 0005 00563             ,Moreno Valley,CA
+CI 0005 00270             ,Naperville,IL
+CI 0005 00146             ,Nashville,TN
+CI 0005 00442             ,Nashville,TN
+CI 0005 01083             ,Nashville,TN
+CI 0005 02742             ,New Orleans,LA
+CI 0005 02962             ,New York,NY
+CI 0005 03662             ,New York,NY
+CI 0005 05762             ,New York,NY
+CI 0005 01142             ,Newark,NJ
+CI 0005 02042             ,Newark,NJ
+CI 0005 03192             ,Newark,NJ
+CI 0005 09192             ,Newark,NJ
+CI 0005 90442             ,Newark,NJ
+CI 0005 00599             ,Newport News,VA
+CI 0005 00486             ,Norfolk,VA
+CI 0005 01286             ,Norfolk,VA
+CI 0005 01386             ,Norfolk,VA
+CI 0005 07852             ,Las Vegas,NV
+CI 0005 00068             ,Oakland,CA
+CI 0005 01088             ,Oakland,CA
+CI 0005 00275             ,Oceanside,CA
+CI 0005 00232             ,Oklahoma City,OK
+CI 0005 00432             ,Oklahoma City,OK
+CI 0005 00832             ,Oklahoma City,OK
+CI 0005 01032             ,Oklahoma City,OK
+CI 0005 01332             ,Oklahoma City,OK
+CI 0005 01432             ,Oklahoma City,OK
+CI 0005 01532             ,Oklahoma City,OK
+CI 0005 01632             ,Oklahoma City,OK
+CI 0005 01732             ,Oklahoma City,OK
+CI 0005 01832             ,Oklahoma City,OK
+CI 0005 02232             ,Oklahoma City,OK
+CI 0005 02532             ,Oklahoma City,OK
+CI 0005 03932             ,Oklahoma City,OK
+CI 0005 04032             ,Oklahoma City,OK
+CI 0005 04832             ,Oklahoma City,OK
+CI 0005 06632             ,Oklahoma City,OK
+CI 0005 06732             ,Oklahoma City,OK
+CI 0005 06832             ,Oklahoma City,OK
+CI 0005 06932             ,Oklahoma City,OK
+CI 0005 07632             ,Oklahoma City,OK
+CI 0005 07832             ,Oklahoma City,OK
+CI 0005 08032             ,Oklahoma City,OK
+CI 0005 08142             ,Oklahoma City,OK
+CI 0005 08532             ,Oklahoma City,OK
+CI 0005 08832             ,Oklahoma City,OK
+CI 0005 08932             ,Oklahoma City,OK
+CI 0005 09532             ,Oklahoma City,OK
+CI 0005 09632             ,Oklahoma City,OK
+CI 0005 30800             ,Oklahoma City,OK
+CI 0005 30812             ,Oklahoma City,OK
+CI 0005 02932             ,Oklahoma City,OK
+CI 0005 03032             ,Oklahoma City,OK
+CI 0005 03132             ,Oklahoma City,OK
+CI 0005 05732             ,Oklahoma City,OK
+CI 0005 06532             ,Oklahoma City,OK
+CI 0005 01020             ,Omaha,NE
+CI 0005 02720             ,Omaha,NE
+CI 0005 04020             ,Omaha,NE
+CI 0005 09920             ,Omaha,NE
+CI 0005 00139             ,Ontario,CA
+CI 0005 00052             ,Orange,CA
+CI 0005 01452             ,Orange,CA
+CI 0005 02252             ,Orange,CA
+CI 0005 02462             ,Orange,CA
+CI 0005 06452             ,Orange,CA
+CI 0005 07952             ,Orange,CA
+CI 0005 09952             ,Orange,CA
+CI 0005 00283             ,Orlando,FL
+CI 0005 00042             ,Overland Park,KS
+CI 0005 04842             ,Overland Park,KS
+CI 0005 06942             ,Overland Park,KS
+CI 0005 00028             ,Oxnard,CA
+CI 0005 00038             ,Oxnard,CA
+CI 0005 00958             ,Oxnard,CA
+CI 0005 02071             ,Palmdale,CA
+CI 0005 00582             ,Pasadena,CA
+CI 0005 03039             ,Pasadena,TX
+CI 0005 04382             ,Pasadena,CA
+CI 0005 06882             ,Pasadena,CA
+CI 0005 09049             ,Pasadena,TX
+CI 0005 00580             ,Paterson,NJ
+CI 0005 00423             ,Pembroke Pines,FL
+CI 0005 01070             ,Pembroke Pines,FL
+CI 0005 09070             ,Pembroke Pines,FL
+CI 0005 02642             ,Peoria,AZ
+CI 0005 04152             ,Peoria,AZ
+CI 0005 07312             ,Peoria,AZ
+CI 0005 09142             ,Peoria,AZ
+CI 0005 00059             ,Philadelphia,PA
+CI 0005 00069             ,Philadelphia,PA
+CI 0005 00169             ,Philadelphia,PA
+CI 0005 00159             ,Philadelphia,PA
+CI 0005 00359             ,Philadelphia,PA
+CI 0005 00459             ,Philadelphia,PA
+CI 0005 00569             ,Philadelphia,PA
+CI 0005 00659             ,Philadelphia,PA
+CI 0005 00769             ,Philadelphia,PA
+CI 0005 00759             ,Philadelphia,PA
+CI 0005 00869             ,Philadelphia,PA
+CI 0005 00859             ,Philadelphia,PA
+CI 0005 00969             ,Philadelphia,PA
+CI 0005 01059             ,Philadelphia,PA
+CI 0005 01159             ,Philadelphia,PA
+CI 0005 01559             ,Philadelphia,PA
+CI 0005 01659             ,Philadelphia,PA
+CI 0005 01759             ,Philadelphia,PA
+CI 0005 01859             ,Philadelphia,PA
+CI 0005 01969             ,Philadelphia,PA
+CI 0005 02059             ,Philadelphia,PA
+CI 0005 02169             ,Philadelphia,PA
+CI 0005 02759             ,Philadelphia,PA
+CI 0005 02769             ,Philadelphia,PA
+CI 0005 02869             ,Philadelphia,PA
+CI 0005 03859             ,Philadelphia,PA
+CI 0005 03869             ,Philadelphia,PA
+CI 0005 03969             ,Philadelphia,PA
+CI 0005 04959             ,Philadelphia,PA
+CI 0005 05059             ,Philadelphia,PA
+CI 0005 05069             ,Philadelphia,PA
+CI 0005 06069             ,Philadelphia,PA
+CI 0005 06859             ,Philadelphia,PA
+CI 0005 06869             ,Philadelphia,PA
+CI 0005 07059             ,Philadelphia,PA
+CI 0005 08069             ,Philadelphia,PA
+CI 0005 09069             ,Philadelphia,PA
+CI 0005 09459             ,Philadelphia,PA
+CI 0005 09469             ,Philadelphia,PA
+CI 0005 09479             ,Philadelphia,PA
+CI 0005 00222             ,Phoenix,AZ
+CI 0005 00322             ,Phoenix,AZ
+CI 0005 01122             ,Phoenix,AZ
+CI 0005 01422             ,Phoenix,AZ
+CI 0005 01922             ,Phoenix,AZ
+CI 0005 02122             ,Phoenix,AZ
+CI 0005 02422             ,Phoenix,AZ
+CI 0005 02822             ,Phoenix,AZ
+CI 0005 02922             ,Phoenix,AZ
+CI 0005 03622             ,Phoenix,AZ
+CI 0005 03522             ,Phoenix,AZ
+CI 0005 04522             ,Phoenix,AZ
+CI 0005 04722             ,Phoenix,AZ
+CI 0005 04622             ,Phoenix,AZ
+CI 0005 05022             ,Phoenix,AZ
+CI 0005 05922             ,Phoenix,AZ
+CI 0005 06922             ,Phoenix,AZ
+CI 0005 07122             ,Phoenix,AZ
+CI 0005 07522             ,Phoenix,AZ
+CI 0005 07722             ,Phoenix,AZ
+CI 0005 08022             ,Phoenix,AZ
+CI 0005 08622             ,Phoenix,AZ
+CI 0005 09722             ,Phoenix,AZ
+CI 0005 09822             ,Phoenix,AZ
+CI 0005 00494             ,Pittsburgh,PA
+CI 0005 00852             ,Pittsburgh,PA
+CI 0005 04752             ,Pittsburgh,PA
+CI 0005 06352             ,Pittsburgh,PA
+CI 0005 00410             ,Plano,TX
+CI 0005 01110             ,Plano,TX
+CI 0005 02000             ,Plano,TX
+CI 0005 03710             ,Plano,TX
+CI 0005 03910             ,Plano,TX
+CI 0005 05010             ,Plano,TX
+CI 0005 05910             ,Plano,TX
+CI 0005 06910             ,Plano,TX
+CI 0005 03052             ,Pomona,CA
+CI 0005 00879             ,Hollywood,FL
+CI 0005 00123             ,Portland,OR
+CI 0005 00542             ,Portland,OR
+CI 0005 03542             ,Portland,OR
+CI 0005 05342             ,Portland,OR
+CI 0005 06542             ,Portland,OR
+CI 0005 07442             ,Portland,OR
+CI 0005 09392             ,Portland,OR
+CI 0005 02242             ,Providence,RI
+CI 0005 02342             ,Providence,RI
+CI 0005 02432             ,Providence,RI
+CI 0005 03232             ,Providence,RI
+CI 0005 06232             ,Providence,RI
+CI 0005 00257             ,Raleigh,NC
+CI 0005 00579             ,Rancho Cucamonga,CA
+CI 0005 00561             ,Reno,NV
+CI 0005 01003             ,Reno,NV
+CI 0005 01852             ,Richmond,VA
+CI 0005 07352             ,Richmond,VA
+CI 0005 08742             ,Riverside,CA
+CI 0005 00262             ,Rochester,NY
+CI 0005 01062             ,Rochester,NY
+CI 0005 03562             ,Rochester,NY
+CI 0005 03962             ,Rochester,NY
+CI 0005 04762             ,Rochester,NY
+CI 0005 05162             ,Rochester,NY
+CI 0005 08962             ,Rochester,NY
+CI 0005 09552             ,Rockford,IL
+CI 0005 00273             ,Sacramento,CA
+CI 0005 00521             ,Salem,OR
+CI 0005 00398             ,Salinas,CA
+CI 0005 03142             ,Salt Lake City,UT
+CI 0005 04442             ,Salt Lake City,UT
+CI 0005 00062             ,San Antonio,TX
+CI 0005 00362             ,San Antonio,TX
+CI 0005 00562             ,San Antonio,TX
+CI 0005 00762             ,San Antonio,TX
+CI 0005 00962             ,San Antonio,TX
+CI 0005 02062             ,San Antonio,TX
+CI 0005 02762             ,San Antonio,TX
+CI 0005 02862             ,San Antonio,TX
+CI 0005 03062             ,San Antonio,TX
+CI 0005 03762             ,San Antonio,TX
+CI 0005 03862             ,San Antonio,TX
+CI 0005 04662             ,San Antonio,TX
+CI 0005 04862             ,San Antonio,TX
+CI 0005 04562             ,San Antonio,TX
+CI 0005 04962             ,San Antonio,TX
+CI 0005 04972             ,San Antonio,TX
+CI 0005 05962             ,San Antonio,TX
+CI 0005 07062             ,San Antonio,TX
+CI 0005 07762             ,San Antonio,TX
+CI 0005 08062             ,San Antonio,TX
+CI 0005 08862             ,San Antonio,TX
+CI 0005 09462             ,San Antonio,TX
+CI 0005 09562             ,San Antonio,TX
+CI 0005 09572             ,San Antonio,TX
+CI 0005 00851             ,San Bernardino,CA
+CI 0005 00009             ,San Diego,CA
+CI 0005 00029             ,San Diego,CA
+CI 0005 00109             ,San Diego,CA
+CI 0005 00129             ,San Diego,CA
+CI 0005 00209             ,San Diego,CA
+CI 0005 00229             ,San Diego,CA
+CI 0005 00309             ,San Diego,CA
+CI 0005 00329             ,San Diego,CA
+CI 0005 00319             ,San Diego,CA
+CI 0005 00429             ,San Diego,CA
+CI 0005 00519             ,San Diego,CA
+CI 0005 00509             ,San Diego,CA
+CI 0005 00529             ,San Diego,CA
+CI 0005 00609             ,San Diego,CA
+CI 0005 00729             ,San Diego,CA
+CI 0005 00809             ,San Diego,CA
+CI 0005 00829             ,San Diego,CA
+CI 0005 00819             ,San Diego,CA
+CI 0005 00909             ,San Diego,CA
+CI 0005 00919             ,San Diego,CA
+CI 0005 00929             ,San Diego,CA
+CI 0005 01009             ,San Diego,CA
+CI 0005 01019             ,San Diego,CA
+CI 0005 01229             ,San Diego,CA
+CI 0005 01309             ,San Diego,CA
+CI 0005 01319             ,San Diego,CA
+CI 0005 02019             ,San Diego,CA
+CI 0005 02309             ,San Diego,CA
+CI 0005 02929             ,San Diego,CA
+CI 0005 03019             ,San Diego,CA
+CI 0005 03029             ,San Diego,CA
+CI 0005 04009             ,San Diego,CA
+CI 0005 04019             ,San Diego,CA
+CI 0005 06029             ,San Diego,CA
+CI 0005 06019             ,San Diego,CA
+CI 0005 07009             ,San Diego,CA
+CI 0005 07029             ,San Diego,CA
+CI 0005 07209             ,San Diego,CA
+CI 0005 08009             ,San Diego,CA
+CI 0005 08019             ,San Diego,CA
+CI 0005 09419             ,San Diego,CA
+CI 0005 09429             ,San Diego,CA
+CI 0005 09409             ,San Diego,CA
+CI 0005 00219             ,San Diego,CA
+CI 0005 00161             ,San Francisco,CA
+CI 0005 00182             ,San Francisco,CA
+CI 0005 00233             ,San Francisco,CA
+CI 0005 00382             ,San Francisco,CA
+CI 0005 00682             ,San Francisco,CA
+CI 0005 01082             ,San Francisco,CA
+CI 0005 01782             ,San Francisco,CA
+CI 0005 02582             ,San Francisco,CA
+CI 0005 02682             ,San Francisco,CA
+CI 0005 03782             ,San Francisco,CA
+CI 0005 04282             ,San Francisco,CA
+CI 0005 05382             ,San Francisco,CA
+CI 0005 06582             ,San Francisco,CA
+CI 0005 06382             ,San Francisco,CA
+CI 0005 07482             ,San Francisco,CA
+CI 0005 07582             ,San Francisco,CA
+CI 0005 07682             ,San Francisco,CA
+CI 0005 08882             ,San Francisco,CA
+CI 0005 09382             ,San Francisco,CA
+CI 0005 09882             ,San Francisco,CA
+CI 0005 01322             ,San Jose,CA
+CI 0005 01392             ,San Jose,CA
+CI 0005 01722             ,San Jose,CA
+CI 0005 02222             ,San Jose,CA
+CI 0005 02722             ,San Jose,CA
+CI 0005 03022             ,San Jose,CA
+CI 0005 03122             ,San Jose,CA
+CI 0005 03332             ,San Jose,CA
+CI 0005 03722             ,San Jose,CA
+CI 0005 03922             ,San Jose,CA
+CI 0005 04022             ,San Jose,CA
+CI 0005 04422             ,San Jose,CA
+CI 0005 04822             ,San Jose,CA
+CI 0005 04922             ,San Jose,CA
+CI 0005 05122             ,San Jose,CA
+CI 0005 05222             ,San Jose,CA
+CI 0005 05432             ,San Jose,CA
+CI 0005 05722             ,San Jose,CA
+CI 0005 06122             ,San Jose,CA
+CI 0005 06322             ,San Jose,CA
+CI 0005 06422             ,San Jose,CA
+CI 0005 06822             ,San Jose,CA
+CI 0005 06722             ,San Jose,CA
+CI 0005 07152             ,San Jose,CA
+CI 0005 08122             ,San Jose,CA
+CI 0005 08222             ,San Jose,CA
+CI 0005 08722             ,San Jose,CA
+CI 0005 08812             ,San Jose,CA
+CI 0005 08912             ,San Jose,CA
+CI 0005 09282             ,San Jose,CA
+CI 0005 09412             ,San Jose,CA
+CI 0005 02089             ,Santa Ana,CA
+CI 0005 02979             ,Santa Ana,CA
+CI 0005 09682             ,Santa Clarita,CA
+CI 0005 00349             ,Santa Rosa,CA
+CI 0005 09742             ,Savannah,GA
+CI 0005 01442             ,Scottsdale,AZ
+CI 0005 02542             ,Scottsdale,AZ
+CI 0005 03432             ,Scottsdale,AZ
+CI 0005 00008             ,Seattle,WA
+CI 0005 00108             ,Seattle,WA
+CI 0005 00308             ,Seattle,WA
+CI 0005 00408             ,Seattle,WA
+CI 0005 00508             ,Seattle,WA
+CI 0005 00608             ,Seattle,WA
+CI 0005 00708             ,Seattle,WA
+CI 0005 01208             ,Seattle,WA
+CI 0005 01408             ,Seattle,WA
+CI 0005 01908             ,Seattle,WA
+CI 0005 02008             ,Seattle,WA
+CI 0005 05008             ,Seattle,WA
+CI 0005 06008             ,Seattle,WA
+CI 0005 08008             ,Seattle,WA
+CI 0005 33108             ,Seattle,WA
+CI 0005 00571             ,Shreveport,LA
+CI 0005 08071             ,Shreveport,LA
+CI 0005 02652             ,Sioux Falls,SD
+CI 0005 00642             ,Spokane,WA
+CI 0005 06842             ,Spokane,WA
+CI 0005 07242             ,Spokane,WA
+CI 0005 00558             ,Springfield,MA
+CI 0005 01042             ,Springfield,MO
+CI 0005 00942             ,Springfield,MO
+CI 0005 00083             ,Saint Paul,MN
+CI 0005 00683             ,Saint Paul,MN
+CI 0005 00752             ,Saint Petersburg,FL
+CI 0005 02952             ,Saint Petersburg,FL
+CI 0005 00003             ,Stockton,CA
+CI 0005 00103             ,Stockton,CA
+CI 0005 00113             ,Stockton,CA
+CI 0005 00403             ,Stockton,CA
+CI 0005 00503             ,Stockton,CA
+CI 0005 00603             ,Stockton,CA
+CI 0005 00903             ,Stockton,CA
+CI 0005 01403             ,Stockton,CA
+CI 0005 09303             ,Stockton,CA
+CI 0005 09423             ,Stockton,CA
+CI 0005 09403             ,Stockton,CA
+CI 0005 09413             ,Stockton,CA
+CI 0005 00203             ,Stockton,CA
+CI 0005 00228             ,Sunnyvale,CA
+CI 0005 00670             ,Syracuse,NY
+CI 0005 01592             ,Tacoma,WA
+CI 0005 05542             ,Tacoma,WA
+CI 0005 01552             ,Tallahassee,FL
+CI 0005 01652             ,Tallahassee,FL
+CI 0005 03412             ,Tallahassee,FL
+CI 0005 03552             ,Tallahassee,FL
+CI 0005 03952             ,Tallahassee,FL
+CI 0005 05152             ,Tallahassee,FL
+CI 0005 06032             ,Tallahassee,FL
+CI 0005 07612             ,Tallahassee,FL
+CI 0005 08552             ,Tallahassee,FL
+CI 0005 02082             ,Tampa,FL
+CI 0005 00170             ,Tempe,AZ
+CI 0005 03752             ,Toledo,OH
+CI 0005 00260             ,Torrance,CA
+CI 0005 08060             ,Torrance,CA
+CI 0005 01771             ,Tucson,AZ
+CI 0005 00162             ,Tulsa,OK
+CI 0005 01562             ,Tulsa,OK
+CI 0005 01662             ,Tulsa,OK
+CI 0005 01862             ,Tulsa,OK
+CI 0005 02262             ,Tulsa,OK
+CI 0005 06962             ,Tulsa,OK
+CI 0005 07962             ,Tulsa,OK
+CI 0005 09662             ,Tulsa,OK
+CI 0005 09962             ,Tulsa,OK
+CI 0005 01090             ,Vancouver,WA
+CI 0005 00014             ,Virginia Beach,VA
+CI 0005 00064             ,Virginia Beach,VA
+CI 0005 00804             ,Virginia Beach,VA
+CI 0005 00894             ,Virginia Beach,VA
+CI 0005 09752             ,Warren,MI
+CI 0005 00692             ,Washington,DC
+CI 0005 02792             ,Washington,DC
+CI 0005 03692             ,Washington,DC
+CI 0005 03892             ,Washington,DC
+CI 0005 07792             ,Washington,DC
+CI 0005 09792             ,Washington,DC
+CI 0005 00097             ,Salt Lake City,UT
+CI 0005 00197             ,Salt Lake City,UT
+CI 0005 00187             ,Salt Lake City,UT
+CI 0005 00697             ,Salt Lake City,UT
+CI 0005 00687             ,Salt Lake City,UT
+CI 0005 00897             ,Salt Lake City,UT
+CI 0005 02087             ,Salt Lake City,UT
+CI 0005 04087             ,Salt Lake City,UT
+CI 0005 09292             ,Salt Lake City,UT
+CI 0005 00072             ,Wichita,KS
+CI 0005 01472             ,Wichita,KS
+CI 0005 07772             ,Wichita,KS
+CI 0005 09472             ,Wichita,KS
+CI 0005 00025             ,Winston-Salem,NC
+CI 0005 00005             ,Winston-Salem,NC
+CI 0005 00055             ,Winston-Salem,NC
+CI 0005 00115             ,Winston-Salem,NC
+CI 0005 00125             ,Winston-Salem,NC
+CI 0005 01041             ,Worcester,MA
+CI 0005 06031             ,Worcester,MA
+CI 0005 00487             ,Yonkers,NY
+CI 0005 00020             ,,  
+CI 0005 000001            ,,  
+CI 0005 00001             ,,  
+CI 0005 00002             ,,  
+CI 0005 00039             ,,  
+CI 0005 00040             ,,  
+CI 0005 00045             ,,  
+CI 0005 00046             ,,  
+CI 0005 00047             ,,  
+CI 0005 00048             ,,  
+CI 0005 00049             ,,  
+CI 0005 00051             ,,  
+CI 0005 00053             ,,  
+CI 0005 00033             ,,  
+CI 0005 00034             ,,  
+CI 0005 00058             ,,  
+CI 0005 00056             ,,  
+CI 0005 00057             ,,  
+CI 0005 00070             ,,  
+CI 0005 00071             ,,  
+CI 0005 00063             ,,  
+CI 0005 00066             ,,  
+CI 0005 00067             ,,  
+CI 0005 00080             ,,  
+CI 0005 00081             ,,  
+CI 0005 00087             ,,  
+CI 0005 00088             ,,  
+CI 0005 00089             ,,  
+CI 0005 00075             ,,  
+CI 0005 00077             ,,  
+CI 0005 00092             ,,  
+CI 0005 00096             ,,  
+CI 0005 00098             ,,  
+CI 0005 00099             ,,  
+CI 0005 00105             ,,  
+CI 0005 00091             ,,  
+CI 0005 00133             ,,  
+CI 0005 00135             ,,  
+CI 0005 00140             ,,  
+CI 0005 00143             ,,  
+CI 0005 00120             ,,  
+CI 0005 00128             ,,  
+CI 0005 00131             ,,  
+CI 0005 00132             ,,  
+CI 0005 00150             ,,  
+CI 0005 00153             ,,  
+CI 0005 00157             ,,  
+CI 0005 00147             ,,  
+CI 0005 00148             ,,  
+CI 0005 00165             ,,  
+CI 0005 00167             ,,  
+CI 0005 00168             ,,  
+CI 0005 00160             ,,  
+CI 0005 00163             ,,  
+CI 0005 00179             ,,  
+CI 0005 00172             ,,  
+CI 0005 00173             ,,  
+CI 0005 00175             ,,  
+CI 0005 00177             ,,  
+CI 0005 00178             ,,  
+CI 0005 00191             ,,  
+CI 0005 00192             ,,  
+CI 0005 00194             ,,  
+CI 0005 00196             ,,  
+CI 0005 00198             ,,  
+CI 0005 00202             ,,  
+CI 0005 00204             ,,  
+CI 0005 00205             ,,  
+CI 0005 00213             ,,  
+CI 0005 00220             ,,  
+CI 0005 00181             ,,  
+CI 0005 00183             ,,  
+CI 0005 00185             ,,  
+CI 0005 00188             ,,  
+CI 0005 00189             ,,  
+CI 0005 00223             ,,  
+CI 0005 00247             ,,  
+CI 0005 00248             ,,  
+CI 0005 00249             ,,  
+CI 0005 00250             ,,  
+CI 0005 00238             ,,  
+CI 0005 00253             ,,  
+CI 0005 00258             ,,  
+CI 0005 00261             ,,  
+CI 0005 00240             ,,  
+CI 0005 00276             ,,  
+CI 0005 00277             ,,  
+CI 0005 00278             ,,  
+CI 0005 00263             ,,  
+CI 0005 00267             ,,  
+CI 0005 00268             ,,  
+CI 0005 00269             ,,  
+CI 0005 00271             ,,  
+CI 0005 00288             ,,  
+CI 0005 00291             ,,  
+CI 0005 00294             ,,  
+CI 0005 00296             ,,  
+CI 0005 00297             ,,  
+CI 0005 00299             ,,  
+CI 0005 00303             ,,  
+CI 0005 00306             ,,  
+CI 0005 00312             ,,  
+CI 0005 00280             ,,  
+CI 0005 00281             ,,  
+CI 0005 00320             ,,  
+CI 0005 00323             ,,  
+CI 0005 00338             ,,  
+CI 0005 00339             ,,  
+CI 0005 00342             ,,  
+CI 0005 00318             ,,  
+CI 0005 00360             ,,  
+CI 0005 00361             ,,  
+CI 0005 00363             ,,  
+CI 0005 00367             ,,  
+CI 0005 00343             ,,  
+CI 0005 00348             ,,  
+CI 0005 00351             ,,  
+CI 0005 00353             ,,  
+CI 0005 00358             ,,  
+CI 0005 00373             ,,  
+CI 0005 00375             ,,  
+CI 0005 00377             ,,  
+CI 0005 00378             ,,  
+CI 0005 00379             ,,  
+CI 0005 00383             ,,  
+CI 0005 00368             ,,  
+CI 0005 00369             ,,  
+CI 0005 00371             ,,  
+CI 0005 00387             ,,  
+CI 0005 00388             ,,  
+CI 0005 00389             ,,  
+CI 0005 00391             ,,  
+CI 0005 00385             ,,  
+CI 0005 00412             ,,  
+CI 0005 00413             ,,  
+CI 0005 00420             ,,  
+CI 0005 00421             ,,  
+CI 0005 00392             ,,  
+CI 0005 00394             ,,  
+CI 0005 00399             ,,  
+CI 0005 00401             ,,  
+CI 0005 00438             ,,  
+CI 0005 00441             ,,  
+CI 0005 00448             ,,  
+CI 0005 00450             ,,  
+CI 0005 00451             ,,  
+CI 0005 00428             ,,  
+CI 0005 00433             ,,  
+CI 0005 00457             ,,  
+CI 0005 00458             ,,  
+CI 0005 00460             ,,  
+CI 0005 00461             ,,  
+CI 0005 00462             ,,  
+CI 0005 00463             ,,  
+CI 0005 00465             ,,  
+CI 0005 00468             ,,  
+CI 0005 00470             ,,  
+CI 0005 00471             ,,  
+CI 0005 00473             ,,  
+CI 0005 00475             ,,  
+CI 0005 00467             ,,  
+CI 0005 00480             ,,  
+CI 0005 00481             ,,  
+CI 0005 00485             ,,  
+CI 0005 00488             ,,  
+CI 0005 00477             ,,  
+CI 0005 00478             ,,  
+CI 0005 00479             ,,  
+CI 0005 00495             ,,  
+CI 0005 00498             ,,  
+CI 0005 00499             ,,  
+CI 0005 00506             ,,  
+CI 0005 00489             ,,  
+CI 0005 00491             ,,  
+CI 0005 00492             ,,  
+CI 0005 00520             ,,  
+CI 0005 00513             ,,  
+CI 0005 00538             ,,  
+CI 0005 00539             ,,  
+CI 0005 00540             ,,  
+CI 0005 00543             ,,  
+CI 0005 00547             ,,  
+CI 0005 00548             ,,  
+CI 0005 00528             ,,  
+CI 0005 00530             ,,  
+CI 0005 00551             ,,  
+CI 0005 00552             ,,  
+CI 0005 00557             ,,  
+CI 0005 00550             ,,  
+CI 0005 00567             ,,  
+CI 0005 00568             ,,  
+CI 0005 00570             ,,  
+CI 0005 00573             ,,  
+CI 0005 00575             ,,  
+CI 0005 00559             ,,  
+CI 0005 00560             ,,  
+CI 0005 00565             ,,  
+CI 0005 00581             ,,  
+CI 0005 00583             ,,  
+CI 0005 00586             ,,  
+CI 0005 00587             ,,  
+CI 0005 00588             ,,  
+CI 0005 00589             ,,  
+CI 0005 00577             ,,  
+CI 0005 00578             ,,  
+CI 0005 00596             ,,  
+CI 0005 00598             ,,  
+CI 0005 00601             ,,  
+CI 0005 00638             ,,  
+CI 0005 00640             ,,  
+CI 0005 00592             ,,  
+CI 0005 00619             ,,  
+CI 0005 00620             ,,  
+CI 0005 00643             ,,  
+CI 0005 00649             ,,  
+CI 0005 00651             ,,  
+CI 0005 00628             ,,  
+CI 0005 00652             ,,  
+CI 0005 00657             ,,  
+CI 0005 00658             ,,  
+CI 0005 00673             ,,  
+CI 0005 00677             ,,  
+CI 0005 00678             ,,  
+CI 0005 00679             ,,  
+CI 0005 00680             ,,  
+CI 0005 00660             ,,  
+CI 0005 00662             ,,  
+CI 0005 00663             ,,  
+CI 0005 00667             ,,  
+CI 0005 00691             ,,  
+CI 0005 00696             ,,  
+CI 0005 00698             ,,  
+CI 0005 00699             ,,  
+CI 0005 00703             ,,  
+CI 0005 00688             ,,  
+CI 0005 00738             ,,  
+CI 0005 00706             ,,  
+CI 0005 00713             ,,  
+CI 0005 00720             ,,  
+CI 0005 00739             ,,  
+CI 0005 00740             ,,  
+CI 0005 00741             ,,  
+CI 0005 00747             ,,  
+CI 0005 00763             ,,  
+CI 0005 00767             ,,  
+CI 0005 00768             ,,  
+CI 0005 00723             ,,  
+CI 0005 00748             ,,  
+CI 0005 00749             ,,  
+CI 0005 00750             ,,  
+CI 0005 00757             ,,  
+CI 0005 00758             ,,  
+CI 0005 00771             ,,  
+CI 0005 00772             ,,  
+CI 0005 00777             ,,  
+CI 0005 00778             ,,  
+CI 0005 00781             ,,  
+CI 0005 00783             ,,  
+CI 0005 00760             ,,  
+CI 0005 00806             ,,  
+CI 0005 00788             ,,  
+CI 0005 00789             ,,  
+CI 0005 00792             ,,  
+CI 0005 00794             ,,  
+CI 0005 00798             ,,  
+CI 0005 00799             ,,  
+CI 0005 00803             ,,  
+CI 0005 00830             ,,  
+CI 0005 00838             ,,  
+CI 0005 00839             ,,  
+CI 0005 00840             ,,  
+CI 0005 00842             ,,  
+CI 0005 00849             ,,  
+CI 0005 00850             ,,  
+CI 0005 00823             ,,  
+CI 0005 00867             ,,  
+CI 0005 00863             ,,  
+CI 0005 00888             ,,  
+CI 0005 00889             ,,  
+CI 0005 00891             ,,  
+CI 0005 00871             ,,  
+CI 0005 00877             ,,  
+CI 0005 00881             ,,  
+CI 0005 00886             ,,  
+CI 0005 00910             ,,  
+CI 0005 00920             ,,  
+CI 0005 00922             ,,  
+CI 0005 00928             ,,  
+CI 0005 00939             ,,  
+CI 0005 00940             ,,  
+CI 0005 00944             ,,  
+CI 0005 00947             ,,  
+CI 0005 00948             ,,  
+CI 0005 00949             ,,  
+CI 0005 00938             ,,  
+CI 0005 00963             ,,  
+CI 0005 00970             ,,  
+CI 0005 00971             ,,  
+CI 0005 00972             ,,  
+CI 0005 00981             ,,  
+CI 0005 00986             ,,  
+CI 0005 00987             ,,  
+CI 0005 00989             ,,  
+CI 0005 00991             ,,  
+CI 0005 00992             ,,  
+CI 0005 00994             ,,  
+CI 0005 00998             ,,  
+CI 0005 00951             ,,  
+CI 0005 01006             ,,  
+CI 0005 01021             ,,  
+CI 0005 01028             ,,  
+CI 0005 01013             ,,  
+CI 0005 01038             ,,  
+CI 0005 01039             ,,  
+CI 0005 01030             ,,  
+CI 0005 01031             ,,  
+CI 0005 01060             ,,  
+CI 0005 01061             ,,  
+CI 0005 01067             ,,  
+CI 0005 01048             ,,  
+CI 0005 01049             ,,  
+CI 0005 01050             ,,  
+CI 0005 01051             ,,  
+CI 0005 01079             ,,  
+CI 0005 01081             ,,  
+CI 0005 01069             ,,  
+CI 0005 01077             ,,  
+CI 0005 01095             ,,  
+CI 0005 01097             ,,  
+CI 0005 01106             ,,  
+CI 0005 01086             ,,  
+CI 0005 01087             ,,  
+CI 0005 01089             ,,  
+CI 0005 01138             ,,  
+CI 0005 01139             ,,  
+CI 0005 01140             ,,  
+CI 0005 01151             ,,  
+CI 0005 01152             ,,  
+CI 0005 01158             ,,  
+CI 0005 01121             ,,  
+CI 0005 01179             ,,  
+CI 0005 01180             ,,  
+CI 0005 01181             ,,  
+CI 0005 01163             ,,  
+CI 0005 012102            ,,  
+CI 0005 012103            ,,  
+CI 0005 012104            ,,  
+CI 0005 012105            ,,  
+CI 0005 01220             ,,  
+CI 0005 012101            ,,  
+CI 0005 01241             ,,  
+CI 0005 01242             ,,  
+CI 0005 01251             ,,  
+CI 0005 01252             ,,  
+CI 0005 01272             ,,  
+CI 0005 01280             ,,  
+CI 0005 01281             ,,  
+CI 0005 01231             ,,  
+CI 0005 01240             ,,  
+CI 0005 01301             ,,  
+CI 0005 01292             ,,  
+CI 0005 01340             ,,  
+CI 0005 01341             ,,  
+CI 0005 01380             ,,  
+CI 0005 01320             ,,  
+CI 0005 01321             ,,  
+CI 0005 01402             ,,  
+CI 0005 01381             ,,  
+CI 0005 01401             ,,  
+CI 0005 01419             ,,  
+CI 0005 01420             ,,  
+CI 0005 01431             ,,  
+CI 0005 01542             ,,  
+CI 0005 01480             ,,  
+CI 0005 01720             ,,  
+CI 0005 01612             ,,  
+CI 0005 01642             ,,  
+CI 0005 01651             ,,  
+CI 0005 01661             ,,  
+CI 0005 01742             ,,  
+CI 0005 01752             ,,  
+CI 0005 01792             ,,  
+CI 0005 01800             ,,  
+CI 0005 01812             ,,  
+CI 0005 01820             ,,  
+CI 0005 01899             ,,  
+CI 0005 01900             ,,  
+CI 0005 01671             ,,  
+CI 0005 01840             ,,  
+CI 0005 01842             ,,  
+CI 0005 01872             ,,  
+CI 0005 01881             ,,  
+CI 0005 01882             ,,  
+CI 0005 01892             ,,  
+CI 0005 01939             ,,  
+CI 0005 01940             ,,  
+CI 0005 01950             ,,  
+CI 0005 01952             ,,  
+CI 0005 01961             ,,  
+CI 0005 01962             ,,  
+CI 0005 01972             ,,  
+CI 0005 01979             ,,  
+CI 0005 01981             ,,  
+CI 0005 01982             ,,  
+CI 0005 01990             ,,  
+CI 0005 01912             ,,  
+CI 0005 01920             ,,  
+CI 0005 01930             ,,  
+CI 0005 01992             ,,  
+CI 0005 02009             ,,  
+CI 0005 020101            ,,  
+CI 0005 020102            ,,  
+CI 0005 020103            ,,  
+CI 0005 020104            ,,  
+CI 0005 020105            ,,  
+CI 0005 020106            ,,  
+CI 0005 020107            ,,  
+CI 0005 020108            ,,  
+CI 0005 020109            ,,  
+CI 0005 020112            ,,  
+CI 0005 02020             ,,  
+CI 0005 02021             ,,  
+CI 0005 020110            ,,  
+CI 0005 020111            ,,  
+CI 0005 02040             ,,  
+CI 0005 02049             ,,  
+CI 0005 02050             ,,  
+CI 0005 02051             ,,  
+CI 0005 02058             ,,  
+CI 0005 02060             ,,  
+CI 0005 02061             ,,  
+CI 0005 02092             ,,  
+CI 0005 02097             ,,  
+CI 0005 02100             ,,  
+CI 0005 02038             ,,  
+CI 0005 02069             ,,  
+CI 0005 02072             ,,  
+CI 0005 02078             ,,  
+CI 0005 02079             ,,  
+CI 0005 02080             ,,  
+CI 0005 02081             ,,  
+CI 0005 02181             ,,  
+CI 0005 02132             ,,  
+CI 0005 02159             ,,  
+CI 0005 02281             ,,  
+CI 0005 02482             ,,  
+CI 0005 02552             ,,  
+CI 0005 02620             ,,  
+CI 0005 02452             ,,  
+CI 0005 02622             ,,  
+CI 0005 02632             ,,  
+CI 0005 02692             ,,  
+CI 0005 02712             ,,  
+CI 0005 02752             ,,  
+CI 0005 02772             ,,  
+CI 0005 02782             ,,  
+CI 0005 02820             ,,  
+CI 0005 02799             ,,  
+CI 0005 02882             ,,  
+CI 0005 02920             ,,  
+CI 0005 02852             ,,  
+CI 0005 02960             ,,  
+CI 0005 02972             ,,  
+CI 0005 02981             ,,  
+CI 0005 02992             ,,  
+CI 0005 030106            ,,  
+CI 0005 030000            ,,  
+CI 0005 030107            ,,  
+CI 0005 030108            ,,  
+CI 0005 03011             ,,  
+CI 0005 03021             ,,  
+CI 0005 030211            ,,  
+CI 0005 030212            ,,  
+CI 0005 030101            ,,  
+CI 0005 030102            ,,  
+CI 0005 030103            ,,  
+CI 0005 030104            ,,  
+CI 0005 030105            ,,  
+CI 0005 030214            ,,  
+CI 0005 030215            ,,  
+CI 0005 030216            ,,  
+CI 0005 030217            ,,  
+CI 0005 030301            ,,  
+CI 0005 030302            ,,  
+CI 0005 030213            ,,  
+CI 0005 030304            ,,  
+CI 0005 030305            ,,  
+CI 0005 030306            ,,  
+CI 0005 030307            ,,  
+CI 0005 030308            ,,  
+CI 0005 030303            ,,  
+CI 0005 030402            ,,  
+CI 0005 030403            ,,  
+CI 0005 030404            ,,  
+CI 0005 030405            ,,  
+CI 0005 030406            ,,  
+CI 0005 030407            ,,  
+CI 0005 03040             ,,  
+CI 0005 030401            ,,  
+CI 0005 030411            ,,  
+CI 0005 030413            ,,  
+CI 0005 030414            ,,  
+CI 0005 030415            ,,  
+CI 0005 030416            ,,  
+CI 0005 030408            ,,  
+CI 0005 030409            ,,  
+CI 0005 03041             ,,  
+CI 0005 030410            ,,  
+CI 0005 03050             ,,  
+CI 0005 030501            ,,  
+CI 0005 03051             ,,  
+CI 0005 030417            ,,  
+CI 0005 030418            ,,  
+CI 0005 030419            ,,  
+CI 0005 03049             ,,  
+CI 0005 03080             ,,  
+CI 0005 03081             ,,  
+CI 0005 03082             ,,  
+CI 0005 03090             ,,  
+CI 0005 03091             ,,  
+CI 0005 03120             ,,  
+CI 0005 03060             ,,  
+CI 0005 03061             ,,  
+CI 0005 03070             ,,  
+CI 0005 03071             ,,  
+CI 0005 03072             ,,  
+CI 0005 03182             ,,  
+CI 0005 03322             ,,  
+CI 0005 03372             ,,  
+CI 0005 03382             ,,  
+CI 0005 03242             ,,  
+CI 0005 03252             ,,  
+CI 0005 03282             ,,  
+CI 0005 03620             ,,  
+CI 0005 03632             ,,  
+CI 0005 03642             ,,  
+CI 0005 03442             ,,  
+CI 0005 03582             ,,  
+CI 0005 03712             ,,  
+CI 0005 03720             ,,  
+CI 0005 03732             ,,  
+CI 0005 03769             ,,  
+CI 0005 03812             ,,  
+CI 0005 03820             ,,  
+CI 0005 03842             ,,  
+CI 0005 03852             ,,  
+CI 0005 03920             ,,  
+CI 0005 03921             ,,  
+CI 0005 03652             ,,  
+CI 0005 03682             ,,  
+CI 0005 03872             ,,  
+CI 0005 03912             ,,  
+CI 0005 03972             ,,  
+CI 0005 03940             ,,  
+CI 0005 03942             ,,  
+CI 0005 040101            ,,  
+CI 0005 040102            ,,  
+CI 0005 040103            ,,  
+CI 0005 040104            ,,  
+CI 0005 040105            ,,  
+CI 0005 03980             ,,  
+CI 0005 03981             ,,  
+CI 0005 03982             ,,  
+CI 0005 03999             ,,  
+CI 0005 040106            ,,  
+CI 0005 040107            ,,  
+CI 0005 040108            ,,  
+CI 0005 040109            ,,  
+CI 0005 04012             ,,  
+CI 0005 04021             ,,  
+CI 0005 04049             ,,  
+CI 0005 04050             ,,  
+CI 0005 04051             ,,  
+CI 0005 04052             ,,  
+CI 0005 04060             ,,  
+CI 0005 04062             ,,  
+CI 0005 04069             ,,  
+CI 0005 04071             ,,  
+CI 0005 04079             ,,  
+CI 0005 04081             ,,  
+CI 0005 04089             ,,  
+CI 0005 04031             ,,  
+CI 0005 04039             ,,  
+CI 0005 04201             ,,  
+CI 0005 042591            ,,  
+CI 0005 04272             ,,  
+CI 0005 04292             ,,  
+CI 0005 04322             ,,  
+CI 0005 04342             ,,  
+CI 0005 04482             ,,  
+CI 0005 04122             ,,  
+CI 0005 04192             ,,  
+CI 0005 04532             ,,  
+CI 0005 04652             ,,  
+CI 0005 04712             ,,  
+CI 0005 04732             ,,  
+CI 0005 04782             ,,  
+CI 0005 04792             ,,  
+CI 0005 04820             ,,  
+CI 0005 04852             ,,  
+CI 0005 04892             ,,  
+CI 0005 04552             ,,  
+CI 0005 04572             ,,  
+CI 0005 04642             ,,  
+CI 0005 04939             ,,  
+CI 0005 04900             ,,  
+CI 0005 04910             ,,  
+CI 0005 04932             ,,  
+CI 0005 04942             ,,  
+CI 0005 04969             ,,  
+CI 0005 04980             ,,  
+CI 0005 05019             ,,  
+CI 0005 05020             ,,  
+CI 0005 05021             ,,  
+CI 0005 05039             ,,  
+CI 0005 05049             ,,  
+CI 0005 05051             ,,  
+CI 0005 05060             ,,  
+CI 0005 05061             ,,  
+CI 0005 05031             ,,  
+CI 0005 05072             ,,  
+CI 0005 05079             ,,  
+CI 0005 05089             ,,  
+CI 0005 05091             ,,  
+CI 0005 05092             ,,  
+CI 0005 05172             ,,  
+CI 0005 05242             ,,  
+CI 0005 05252             ,,  
+CI 0005 05070             ,,  
+CI 0005 05071             ,,  
+CI 0005 05422             ,,  
+CI 0005 05472             ,,  
+CI 0005 05282             ,,  
+CI 0005 05322             ,,  
+CI 0005 05642             ,,  
+CI 0005 05522             ,,  
+CI 0005 05572             ,,  
+CI 0005 05582             ,,  
+CI 0005 05752             ,,  
+CI 0005 05772             ,,  
+CI 0005 05782             ,,  
+CI 0005 05842             ,,  
+CI 0005 05852             ,,  
+CI 0005 05912             ,,  
+CI 0005 05920             ,,  
+CI 0005 05930             ,,  
+CI 0005 05932             ,,  
+CI 0005 05700             ,,  
+CI 0005 05712             ,,  
+CI 0005 05972             ,,  
+CI 0005 05979             ,,  
+CI 0005 05980             ,,  
+CI 0005 06009             ,,  
+CI 0005 060101            ,,  
+CI 0005 060102            ,,  
+CI 0005 060103            ,,  
+CI 0005 060104            ,,  
+CI 0005 060105            ,,  
+CI 0005 060106            ,,  
+CI 0005 060107            ,,  
+CI 0005 05939             ,,  
+CI 0005 060108            ,,  
+CI 0005 060109            ,,  
+CI 0005 06011             ,,  
+CI 0005 060110            ,,  
+CI 0005 060111            ,,  
+CI 0005 06059             ,,  
+CI 0005 06060             ,,  
+CI 0005 06062             ,,  
+CI 0005 06042             ,,  
+CI 0005 06050             ,,  
+CI 0005 06051             ,,  
+CI 0005 06132             ,,  
+CI 0005 06071             ,,  
+CI 0005 06079             ,,  
+CI 0005 06081             ,,  
+CI 0005 06090             ,,  
+CI 0005 06092             ,,  
+CI 0005 06372             ,,  
+CI 0005 06242             ,,  
+CI 0005 06252             ,,  
+CI 0005 06282             ,,  
+CI 0005 06312             ,,  
+CI 0005 06622             ,,  
+CI 0005 06432             ,,  
+CI 0005 06442             ,,  
+CI 0005 06482             ,,  
+CI 0005 06502             ,,  
+CI 0005 06772             ,,  
+CI 0005 06812             ,,  
+CI 0005 06852             ,,  
+CI 0005 06872             ,,  
+CI 0005 06912             ,,  
+CI 0005 06920             ,,  
+CI 0005 06939             ,,  
+CI 0005 06940             ,,  
+CI 0005 06950             ,,  
+CI 0005 06952             ,,  
+CI 0005 06972             ,,  
+CI 0005 06982             ,,  
+CI 0005 070101            ,,  
+CI 0005 070102            ,,  
+CI 0005 06652             ,,  
+CI 0005 06672             ,,  
+CI 0005 070111            ,,  
+CI 0005 070112            ,,  
+CI 0005 07012             ,,  
+CI 0005 07020             ,,  
+CI 0005 070103            ,,  
+CI 0005 070104            ,,  
+CI 0005 070105            ,,  
+CI 0005 070106            ,,  
+CI 0005 070107            ,,  
+CI 0005 070108            ,,  
+CI 0005 070109            ,,  
+CI 0005 070110            ,,  
+CI 0005 07040             ,,  
+CI 0005 07042             ,,  
+CI 0005 07049             ,,  
+CI 0005 07080             ,,  
+CI 0005 07081             ,,  
+CI 0005 07052             ,,  
+CI 0005 07070             ,,  
+CI 0005 07071             ,,  
+CI 0005 07089             ,,  
+CI 0005 07091             ,,  
+CI 0005 07092             ,,  
+CI 0005 07099             ,,  
+CI 0005 07072             ,,  
+CI 0005 07079             ,,  
+CI 0005 07412             ,,  
+CI 0005 07422             ,,  
+CI 0005 07472             ,,  
+CI 0005 07642             ,,  
+CI 0005 07552             ,,  
+CI 0005 07572             ,,  
+CI 0005 07712             ,,  
+CI 0005 07742             ,,  
+CI 0005 07752             ,,  
+CI 0005 07782             ,,  
+CI 0005 07666             ,,  
+CI 0005 07672             ,,  
+CI 0005 07820             ,,  
+CI 0005 07822             ,,  
+CI 0005 07842             ,,  
+CI 0005 07872             ,,  
+CI 0005 07892             ,,  
+CI 0005 07972             ,,  
+CI 0005 07979             ,,  
+CI 0005 07982             ,,  
+CI 0005 08000             ,,  
+CI 0005 08049             ,,  
+CI 0005 08050             ,,  
+CI 0005 08051             ,,  
+CI 0005 08052             ,,  
+CI 0005 08061             ,,  
+CI 0005 08011             ,,  
+CI 0005 08020             ,,  
+CI 0005 08030             ,,  
+CI 0005 08121             ,,  
+CI 0005 08080             ,,  
+CI 0005 08081             ,,  
+CI 0005 08089             ,,  
+CI 0005 08092             ,,  
+CI 0005 08192             ,,  
+CI 0005 08242             ,,  
+CI 0005 08442             ,,  
+CI 0005 08492             ,,  
+CI 0005 08522             ,,  
+CI 0005 08542             ,,  
+CI 0005 08342             ,,  
+CI 0005 08752             ,,  
+CI 0005 08772             ,,  
+CI 0005 08782             ,,  
+CI 0005 08792             ,,  
+CI 0005 08632             ,,  
+CI 0005 08820             ,,  
+CI 0005 08940             ,,  
+CI 0005 08942             ,,  
+CI 0005 08952             ,,  
+CI 0005 08972             ,,  
+CI 0005 08892             ,,  
+CI 0005 08910             ,,  
+CI 0005 08920             ,,  
+CI 0005 09039             ,,  
+CI 0005 09040             ,,  
+CI 0005 09042             ,,  
+CI 0005 09052             ,,  
+CI 0005 09060             ,,  
+CI 0005 09062             ,,  
+CI 0005 08982             ,,  
+CI 0005 08992             ,,  
+CI 0005 09010             ,,  
+CI 0005 09072             ,,  
+CI 0005 09079             ,,  
+CI 0005 09242             ,,  
+CI 0005 09089             ,,  
+CI 0005 09092             ,,  
+CI 0005 09162             ,,  
+CI 0005 09422             ,,  
+CI 0005 09482             ,,  
+CI 0005 09522             ,,  
+CI 0005 09772             ,,  
+CI 0005 09652             ,,  
+CI 0005 09672             ,,  
+CI 0005 09692             ,,  
+CI 0005 09812             ,,  
+CI 0005 09842             ,,  
+CI 0005 09852             ,,  
+CI 0005 09932             ,,  
+CI 0005 09942             ,,  
+CI 0005 09972             ,,  
+CI 0005 09992             ,,  
+CI 0005 11                ,,  
+CI 0005 21                ,,  
+CI 0005 30                ,,  
+CI 0005 31                ,,  
+CI 0005 32                ,,  
+CI 0005 33                ,,  
+CI 0005 34                ,,  
+CI 0005 35                ,,  
+CI 0005 36                ,,  
+CI 0005 37                ,,  
+CI 0005 41                ,,  
+CI 0005 61                ,,  
+CI 0005 71                ,,  
+CI 0005 77030             ,,  
+CI 0005 80427             ,,  
+CI 0005 90142             ,,  
+CI 0005 90242             ,,  
+CI 0005 33503             ,,  
+CI 0005 90642             ,,  
+CI 0005 90742             ,,  
+CI 0005 999999            ,,  
+CI 0005 CIBC              ,,  
+CI 0005 FTI               ,,  
+CI 0005 07172             ,,  
+CI 0005 32267             ,,  
+CI 0005 32277             ,,  
+CI 0005 85366             ,,  
